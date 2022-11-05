@@ -75,7 +75,7 @@ Below is the link to my demo video on my Github:
 
 Demo-
 
-Heroku-
+Heroku-https://pwafuntimes.herokuapp.com/
 
 
 
