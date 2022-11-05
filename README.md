@@ -1,3 +1,4 @@
+
 # Progressive-Web-Applications-PWA-Text-Editor
 
 ## Description
@@ -64,7 +65,11 @@ This program is a text editor that can be run in-browser, or be installed to the
 To contribute to PWA-text editor, clone this repo locally and commit your code on a separate branch.
 
 ## Mock Up
-
+<img width="798" alt="pwa screenshot 2" src="https://user-images.githubusercontent.com/106499144/200140623-4b688a06-bdb8-484f-bd04-767a16016f41.png">
+<img width="796" alt="pwa screenshot 4" src="https://user-images.githubusercontent.com/106499144/200140627-6e0b325c-dc31-4a9f-ab45-3478d58dde00.png">
+<img width="796" alt="pwa screenshot 5" src="https://user-images.githubusercontent.com/106499144/200140628-7a0bba04-3fb5-4b3e-8927-aa0fc3c0be43.png">
+<img width="796" alt="pwa screenshot3" src="https://user-images.githubusercontent.com/106499144/200140629-9e86fe63-37d0-4fe6-9cb2-de7b9c4a8fc4.png">
+<img width="943" alt="pwascreenshoot " src="https://user-images.githubusercontent.com/106499144/200140630-ee292b13-a07c-4e78-9e04-6168048c7e46.png">
 
 ## Questions
 My Github username is collins418, which can be accessed here :https://github.com/Collins418/Progressive-Web-Applications-PWA-Text-Editor
