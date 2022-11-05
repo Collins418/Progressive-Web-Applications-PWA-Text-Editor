@@ -73,7 +73,7 @@ You can reach me at msdavistoday@gmail.com with additional questions.
 
 Below is the link to my demo video on my Github:
 
-Demo-
+Deploy- https://collins418.github.io/Progressive-Web-Applications-PWA-Text-Editor/
 
 Heroku-https://pwafuntimes.herokuapp.com/
 
